@@ -1,0 +1,12 @@
+.rec1{
+    width: 100px;
+    height: 100px;
+    margin-bottom: 12px;
+    background-color: blue;
+}
+.rec2{
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    background-color:red;
+}
